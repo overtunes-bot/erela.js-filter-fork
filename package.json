@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "erela.js": "^2.3.3"
+  },
+  "name": "erela.js-filter",
+  "version": "0.2.3",
+  "main": "./src/index.js",
+  "typings": "./src/typings/index.d.ts",
+  "author": {
+    "name": "KagChi"
+  },
+  "description": "erela.js filter plugin",
+  "license": "MIT"
+}
